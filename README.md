@@ -55,7 +55,7 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-**Ferramentas de desenvolvimento**
+**Development tools**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=eclipse-ide&logo=intellijidea)
@@ -75,6 +75,8 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/by_cmlla/" alt="Instagram"/></a>
 
   <div align="center">
+<img src="https://github.com/bycmlla/bycmlla/blob/main/assets/eu.gif" width="50" /> 
+    
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
