@@ -7,45 +7,15 @@
 - 👩🏻‍🎓  Student in Systems Analysis and Development
 - 🌱 Full-Stack developer.
 
-## GitHub Analytics
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=bycmlla&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=bycmlla&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=bycmlla&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
-
 ## My Skills
 
 **Data and applications**
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React JS](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![Node Js](https://img.shields.io/badge/-Node%20Js-333333?style=flat&logo=nodedotjs)
+![Node JS](https://img.shields.io/badge/-Node%20Js-333333?style=flat&logo=nodedotjs)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
