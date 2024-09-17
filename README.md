@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffbb00&size=35&center=true&vCenter=true&width=1000&lines=Welcome!!+I+Hope+you+like+it+%3A%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c91100f&size=35&center=true&vCenter=true&width=1000&lines=Welcome!!+I+Hope+you+like+it+%3A%29)](https://git.io/typing-svg)
 
 <img src="https://media.tenor.com/8tgG_KyJqqwAAAAi/happy-happy-happy-happy.gif" width="50" /> 
 
@@ -79,8 +79,6 @@ Languages & Technologies: `Power BI`, `Dax`, `Python`\
 Languages & Technologies: `Power BI`, `Python`, `Java`, `SQL Server`, `DAX` \
 <br/>
 <br/>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Bycmlla&show_icons=true&theme=chartreuse-dark" alt="bycmlla" />
 
 <p align="left">
   <p align="center">
