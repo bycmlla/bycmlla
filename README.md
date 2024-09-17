@@ -8,6 +8,10 @@
 - 🌱 Full-Stack developer.
 - 🧐 Data Analyst.
 
+**What am I listening to?**
+
+![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=6p3x0gaaidm86aiu9fjd18ail&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=001eff&bar_color_cover=true)
+
 ## My Skills
 
 **Front End Skills**
@@ -49,20 +53,6 @@
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
-**Find me**
-
-<p align="left">
-  <p align="center">
-	<a href="mailto:by.cmlla0107@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/camila-de-aguiar-ti1808/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-
-</p>
-
-  <div align="center">
-<img src="https://github.com/bycmlla/bycmlla/blob/main/assets/eu.gif" width="50" /> 
-    
-</div>
-
 ### Work Experience
 
 In the overview below, you will find my most recent work experience:
@@ -72,7 +62,7 @@ In the overview below, you will find my most recent work experience:
 **Developer Researcher** \
 [**FAPESB/IF BAiano**](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiFkIzekcqIAxVWrJUCHUrDE5AQFnoECBgQAQ&url=https%3A%2F%2Fwww.fapesb.ba.gov.br%2F&usg=AOvVaw0wCz5-Y-w0D8FhBrkE_AN5&opi=89978449) • Part-time \
 Languages & Technologies: `Python`, `OpenCV`, `Linux/Ubuntu`, `NVIDIA Jetson Nano`\
-Project: [Interface de Visão Estereoscópica Binocular para Reconhecimento de Humanos e Objetos para Robôs SA](https://docs.google.com/document/d/12Tl71IPQWlvJHR8sy4wRUQWaGUAqsX01VTP6Cj0_ABg/edit?usp=sharing)
+Project: [Interface de Visão Estereoscópica Binocular para Reconhecimento de Humanos e Objetos para Robôs](https://docs.google.com/document/d/12Tl71IPQWlvJHR8sy4wRUQWaGUAqsX01VTP6Cj0_ABg/edit?usp=sharing)
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Perbras" src="https://yt3.googleusercontent.com/ytc/AIdro_laBgmuFgDT8ojJ8ab-1qjqdtHMYMNFk8gl1aN0uyiRSA=s900-c-k-c0x00ffffff-no-rj"/>](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjlncz7k8qIAxWGqpUCHVR_KDgQFnoECBwQAQ&url=https%3A%2F%2Fperbras.com.br%2F&usg=AOvVaw1YYaUQ9k4Hn4GNX4c0PbaX&opi=89978449)
@@ -89,4 +79,17 @@ Languages & Technologies: `Power BI`, `Dax`, `Python`\
 Languages & Technologies: `Power BI`, `Python`, `Java`, `SQL Server`, `DAX` \
 <br/>
 <br/>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Bycmlla&show_icons=true&theme=chartreuse-dark" alt="bycmlla" />
+
+<p align="left">
+  <p align="center">
+	<a href="mailto:by.cmlla0107@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/camila-de-aguiar-ti1808/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
+
+  <div align="center">
+<img src="https://github.com/bycmlla/bycmlla/blob/main/assets/eu.gif" width="50" /> 
+    
+</div>
 
