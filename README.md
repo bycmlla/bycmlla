@@ -59,15 +59,15 @@ In the overview below, you will find my most recent work experience:
 
 [<img align="left" height="94px" width="94px" alt="Lamonica" src="https://logo.fretebras.com.br/1373689812/jtd-transportes-feira-de-santana-ba-ramo-transportadora-atividade-geral_g.jpg"/>](https://grupolamonica.com.br/)
 
-**Data Analysis Assistent** \
-[**Lamonica - LAMONICA LOGÍSTICA**](https://grupolamonica.com.br/) • Full-time \
-Languages & Technologies: `Power BI`, `Python`, `Java`, `SQL Server`, `DAX` \
+**IT Development Analyst** \
+[**JTD Transportes**](https://www.instagram.com/jtdtransportesba/?hl=en) • Full-time \
+Languages & Technologies: `Java + Spring Boot`, `React JS + Node JS`, `Python` \
 <br/>
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Lamonica" src="https://grupolamonica.com.br/wp-content/uploads/2021/07/cropped-cropped-LOGO-LAMONICA-TRANSP-300x300.png"/>](https://grupolamonica.com.br/)
 
-**Data Analysis Assistent** \
+**Data and Software Analyst** \
 [**Lamonica - LAMONICA LOGÍSTICA**](https://grupolamonica.com.br/) • Full-time \
 Languages & Technologies: `Power BI`, `Python`, `Java`, `SQL Server`, `DAX` \
 <br/>
